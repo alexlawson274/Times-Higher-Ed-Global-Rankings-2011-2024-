@@ -6,4 +6,4 @@ The Times Higher Education World University Ranking is widely regarded as one of
 
 ##  Output
 The calculations were used as part of an ongoing data journalism project. 
-https://www.datawrapper.de/_/ugdwc/
+![ugdwc-all-australian-university-rankings-have-sagged-since-2021-except-for-monash-university](https://github.com/user-attachments/assets/ffc202bb-ffe1-47b9-b0fe-73fe942b1e40)
